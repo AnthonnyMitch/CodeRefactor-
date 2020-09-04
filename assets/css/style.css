@@ -92,10 +92,11 @@ p {
     text-align: center;
 }
 
-.fotoB  {
+.fotoB {
     display: block;
-    margin: 10px auto;
+    margin:10px auto;
     max-width: 150px;
+
 }
 
 .search-engine-optimization {
@@ -124,7 +125,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 .search-engine-optimization img {
     max-height: 200px;
 }
