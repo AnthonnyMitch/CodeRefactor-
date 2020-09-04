@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*created a hearder element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,7 +32,7 @@ body {
     font-size: 20px;
 }
 
-
+/* concise hearder div ul il */
 
 .header div ul li {
     display: inline-block;
@@ -73,7 +73,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* concise benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,12 +86,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* concise h3 class */
 .h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* class fotoB created to concise elements */
 .fotoB {
     display: block;
     margin:10px auto;
@@ -125,10 +125,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* used class img to concise elements on images */
 img {
     max-height: 200px;
 }
-
+/* concise element h2 */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -140,7 +141,7 @@ h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*used h4 to match changes on html*/
 h4 {
     font-size: 20px;
 }
